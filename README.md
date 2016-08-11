@@ -1,7 +1,6 @@
 # Material Design Light RTL Templates
 
 [![GitHub version](https://badge.fury.io/gh/Majiix%2Fmaterial-design-light-RTL-templates.svg)](https://badge.fury.io/gh/Majiix%2Fmaterial-design-light-RTL-templates)
-[![GitHub version](https://badge.fury.io/gh/google%2Fmaterial-design-lite.svg)](https://badge.fury.io/gh/google%2Fmaterial-design-lite)
 
 Material Design Lite RTL lets you add a Material Design look and feel to your static content websites that are running in right to left languages .
 
