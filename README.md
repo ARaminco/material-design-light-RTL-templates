@@ -20,17 +20,16 @@ And also Material.min.js
 
 <h2 align="right">نسخه راست‌چین متریال دیزاین لایت</h2>
 
-متریال دیزاین لایت راست‌چین به شما اجازه می‌دهد حس و حال طراحی متریال را به محتواهای ایستای وبسایتی که به زبان‌های راست‌چین طراحی شده است اضافه کنید.
-
+<h5 align="right">متریال دیزاین لایت راست‌چین به شما اجازه می‌دهد حس و حال طراحی متریال را به محتواهای ایستای وبسایتی که به زبان‌های راست‌چین طراحی شده است اضافه کنید.</h5>
 <h2 align="right"> میخواهید در قالب اختصاصی خودتان استفاده کنید؟</h2>
 
-<h5 align="right"> تنها کافیست فایل Material-rtl.min.css را به پروژه‌ی خود اضافه کنید</h5>
+<h5 align="right">را به پروژه‌ی خود اضافه کنید Material-rtl.min.css  تنها کافیست فایل</h5>
 
 ```html
 <link rel="stylesheet" href="material-rtl.min.css">
 ```
 
-<h5 align="right"> و همچنین فایل Material.min.js</h5>
+<h5 align="right">Material.min.js و همچنین فایل</h5>
 
 ```html
 <script src="material.min.js"></script>
