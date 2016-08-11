@@ -17,13 +17,13 @@ And also Material.min.js
 ```html
 <script src="material.min.js"></script>
 ```
-<div align="right">
+<h1 align="right">
 ## نسخه راست‌چین متریال دیزاین لایت
-
+</h1>
 متریال دیزاین لایت راست‌چین به شما اجازه می‌دهد حس و حال طراحی متریال را به محتواهای ایستای وبسایتی که به زبان‌های راست‌چین طراحی شده است اضافه کنید.
-
+<h1 align="right">
 ## میخواهید در قالب اختصاصی خودتان استفاده کنید؟
-
+</h1>
 تنها کافیست فایل Material-rtl.min.css را به پروژه‌ی خود اضافه کنید
 
 ```html
@@ -35,4 +35,3 @@ And also Material.min.js
 ```html
 <script src="material.min.js"></script>
 ```
-</div>
