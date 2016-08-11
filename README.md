@@ -17,7 +17,7 @@ And also Material.min.js
 ```html
 <script src="material.min.js"></script>
 ```
-
+<div align="right">
 ## نسخه راست‌چین متریال دیزاین لایت
 
 متریال دیزاین لایت راست‌چین به شما اجازه می‌دهد حس و حال طراحی متریال را به محتواهای ایستای وبسایتی که به زبان‌های راست‌چین طراحی شده است اضافه کنید.
@@ -35,3 +35,4 @@ And also Material.min.js
 ```html
 <script src="material.min.js"></script>
 ```
+</div>
